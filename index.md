@@ -1,8 +1,6 @@
-# Zichen Yu
-
 ## About 👋🏼<br>
 I am Zichen Yu, you can also call me Wally(big fan of Wall-E). I am from Nanjing, China🇨🇳. I am a third year Data Science Major student in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/). <br>
-I am a full Stack developer with a strong emphasis on backend software development, actively pursuing a `Backend Software Engineer internship` opportunity.<br>
+I am a full Stack developer with a strong emphasis on backend software development, actively pursuing a **Backend Software Engineer internship** opportunity.<br>
 Feel free to email me at <a>wallyzichen@gmail.com</a>, connect me on [Linkedin](https://www.linkedin.com/in/zichen-yu-1a4838248/).
 
 <a name='experience'></a>

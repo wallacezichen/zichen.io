@@ -24,7 +24,7 @@ description: UCSD Data Science Student Looking for Backend SWE Intern
 #     url: https://duckduckgo.com
 #     external: true
 nav-links:
-  - name: Home
+  - name:
     url: /
     external: false
 
