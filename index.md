@@ -37,8 +37,7 @@ A machine learning research conducted by me and [Hyunsoo Jeon](https://www.linke
 A machine learning research conducted by me and [Hyunsoo Jeon](https://www.linkedin.com/in/hyunsoo-jeon-808kr/). We aimed to address the question that "Does the usage of exclamation mark ! in the review and description give the recipes higer rating?"
 
 
-**Hobbies**<br>
-I enjoy 
+## Hobbies<br> 
 - Make it rain 🏀([UCSD Rimac](https://recreation.ucsd.edu/) every Saturday afternoon)
 - Magic 🪄(Mostly clost up [card magic](https://www.bilibili.com/video/BV1rv411z7Jg/?spm_id_from=333.999.0.0), but sometimes a litte [cardistry](https://youtu.be/TG_9LZmnbrc))
 - Photograph 📷 (Sony A6400 + 18-135mm)
