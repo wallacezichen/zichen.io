@@ -42,7 +42,7 @@ A machine learning research conducted by me and [Hyunsoo Jeon](https://www.linke
 - Magic 🪄(Mostly clost up [card magic](https://www.bilibili.com/video/BV1rv411z7Jg/?spm_id_from=333.999.0.0), but sometimes a litte [cardistry](https://youtu.be/TG_9LZmnbrc))
 - Photograph 📷 ([Sony A6400](https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6400-b) + [18-135mm](https://electronics.sony.com/imaging/lenses/aps-c-e-mount/p/sel18135))
 - Take away Minko🐴🐴's ShellieMay🧸 while she is asleep
-- Random places or event during travel
+- Random [places](https://wallacezichen.github.io/zichen.io/assets/img/ROCK%20%26%20ROLL.jpg) or [event](https://wallacezichen.github.io/zichen.io/assets/img/desert.jpg) during travel
 - 1.5 hour lego(most recent one is [Tales of the Space Age](https://www.lego.com/en-us/product/tales-of-the-space-age-21340))
 - Sichuan Boiled Beef from [szechuan chef](https://www.szechuanchefca.com/)
 - Word Hunt and Word Bite from [GamePigeon](https://gamepigeonapp.com/) 
