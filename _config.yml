@@ -29,7 +29,7 @@ description: UCSD Data Science Student Looking for Backend SWE Intern
 #     external: false
 
 # for the homepage image + big text next to it
-greeting_image: /zichen.io/assets/me.png
+greeting_image: /zichen.io/assets/img/me.png
 # 100-200 characters recommended
 greeting_text: Zichen Yu
 
