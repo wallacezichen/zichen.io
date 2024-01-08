@@ -44,17 +44,18 @@ A machine learning research conducted by me and [Hyunsoo Jeon](https://www.linke
 **[Analyzing And Predicting Popularity Trends Spotify Songs](https://wallacezichen.github.io/zichen.io/assets/pdf/Assignment2_report.pdf)**<br>
 A research report analyzed a dataset of 30,000 Spotify songs, focusing on predicting track popularity, utilized ensemble learning techniques, particularly AdaBoost Regression. The study improved predictive accuracy from a baseline MAE of 20.154 to 9.375 through feature engineering and model selection.
 
-## Hobbies<br> 
+## Hobbies😸<br> 
 - Make it rain 🏀([UCSD Rimac](https://recreation.ucsd.edu/) every Saturday afternoon)
 - Magic 🪄(Mostly Close-up [Card Magic](https://www.bilibili.com/video/BV1rv411z7Jg/?spm_id_from=333.999.0.0), but sometimes a litte [Cardistry](https://youtu.be/TG_9LZmnbrc))
 - Photograph 📷 ([Sony A6400](https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6400-b) + [18-135mm](https://electronics.sony.com/imaging/lenses/aps-c-e-mount/p/sel18135))
 - Take away [Minko🐴🐴](https://wallacezichen.github.io/zichen.io//assets/img/%E9%BB%91%E5%8C%96%E9%A9%AC%E9%A9%AC.jpg)'s [ShellieMay🧸](https://wallacezichen.github.io/zichen.io//assets/img/xiaoxiong.jpg) while she is [asleep](https://wallacezichen.github.io/zichen.io//assets/img/sleeping.jpeg)
-- Random [Places](https://wallacezichen.github.io/zichen.io/assets/img/ROCK%20%26%20ROLL.jpg) or [Event](https://wallacezichen.github.io/zichen.io/assets/img/desert.jpg) during travel
+- Random [Places](https://wallacezichen.github.io/zichen.io/assets/img/ROCK%20%26%20ROLL.jpg) or [Event]🏍️(https://wallacezichen.github.io/zichen.io/assets/img/desert.jpg) during travel
 - 1.5 hour lego(most recent one is [Tales of the Space Age](https://www.lego.com/en-us/product/tales-of-the-space-age-21340))
-- Sichuan Boiled Beef from [Szechuan Chef](https://www.szechuanchefca.com/)
-- Word Hunt and Word Bite from [GamePigeon](https://gamepigeonapp.com/) 
-- [Clash Royale](https://supercell.com/en/games/clashroyale/)(I use [2.6 hog cycle](https://www.deckshop.pro/deck/detail/ice-spirit,evo-skeletons,cannon,ice-golem,fireball,musketeer,hog-rider,the-log))
-- Appreciate Music([都是你](https://wallacezichen.github.io/zichen.io/assets/mp3/%E9%83%BD%E6%98%AF%E4%BD%A0.mp3),[黑色柳丁](https://wallacezichen.github.io/zichen.io/assets/mp3/%E9%BB%91%E8%89%B2%E6%9F%B3%E4%B8%81.mp3),[印地安老斑鸠](https://wallacezichen.github.io/zichen.io/assets/mp3/%E5%8D%B0%E5%9C%B0%E5%AE%89%E8%80%81%E6%96%91%E9%B8%A0.mp3),[她的睫毛](https://wallacezichen.github.io/zichen.io/assets/mp3/%E5%A5%B9%E7%9A%84%E7%9D%AB%E6%AF%9B.mp3),[爱在西元前](https://wallacezichen.github.io/zichen.io/assets/mp3/%E7%88%B1%E5%9C%A8%E8%A5%BF%E5%85%83%E5%89%8D.mp3))
+- Sichuan Boiled Beef from [Szechuan Chef]🥵(https://www.szechuanchefca.com/)
+- Word Hunt and Word Bite from [GamePigeon]🎮(https://gamepigeonapp.com/) 
+- [Clash Royale🎮](https://supercell.com/en/games/clashroyale/)(I use [2.6 hog cycle🐗](https://www.deckshop.pro/deck/detail/ice-spirit,evo-skeletons,cannon,ice-golem,fireball,musketeer,hog-rider,the-log))
+- [It Takes Two](https://www.nintendo.com/us/store/products/it-takes-two-switch/) and [Overcooked! 2](https://www.nintendo.com/us/store/products/overcooked-2-switch/) on [Switch](https://www.nintendo.com/us/switch/)
+- Musics([都是你](https://wallacezichen.github.io/zichen.io/assets/mp3/%E9%83%BD%E6%98%AF%E4%BD%A0.mp3),[黑色柳丁](https://wallacezichen.github.io/zichen.io/assets/mp3/%E9%BB%91%E8%89%B2%E6%9F%B3%E4%B8%81.mp3),[印地安老斑鸠](https://wallacezichen.github.io/zichen.io/assets/mp3/%E5%8D%B0%E5%9C%B0%E5%AE%89%E8%80%81%E6%96%91%E9%B8%A0.mp3),[她的睫毛](https://wallacezichen.github.io/zichen.io/assets/mp3/%E5%A5%B9%E7%9A%84%E7%9D%AB%E6%AF%9B.mp3),[爱在西元前](https://wallacezichen.github.io/zichen.io/assets/mp3/%E7%88%B1%E5%9C%A8%E8%A5%BF%E5%85%83%E5%89%8D.mp3))
 - Grinding Data Structure and Algorithm on [Leetcode](https://leetcode.com/wallyzichen/)
 
 
