@@ -46,8 +46,8 @@ A research report analyzed a dataset of 30,000 Spotify songs, focusing on predic
 
 ## Hobbies😸<br> 
 - Make it rain 🏀([UCSD Rimac](https://recreation.ucsd.edu/) every Saturday afternoon)
-- Magic 🪄(Mostly Close-up [Card Magic](https://www.bilibili.com/video/BV1rv411z7Jg/?spm_id_from=333.999.0.0), but sometimes a litte [Cardistry](https://youtu.be/TG_9LZmnbrc))
-- Photograph 📷 ([Sony A6400](https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6400-b) + [18-135mm](https://electronics.sony.com/imaging/lenses/aps-c-e-mount/p/sel18135))
+- [Close-up Card Magic 🃇](https://www.bilibili.com/video/BV1rv411z7Jg/?spm_id_from=333.999.0.0) and   [Cardistry🃏](https://youtu.be/TG_9LZmnbrc)
+- Photograph 📷  with [Sony A6400](https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6400-b) + [18-135mm](https://electronics.sony.com/imaging/lenses/aps-c-e-mount/p/sel18135)
 - Take away [Minko🐴🐴](https://wallacezichen.github.io/zichen.io//assets/img/%E9%BB%91%E5%8C%96%E9%A9%AC%E9%A9%AC.jpg)'s [ShellieMay🧸](https://wallacezichen.github.io/zichen.io//assets/img/xiaoxiong.jpg) while she is [asleep](https://wallacezichen.github.io/zichen.io//assets/img/sleeping.jpeg)
 - Random [Sport🪂](https://wallacezichen.github.io/zichen.io/assets/img/ROCK%20%26%20ROLL.jpg) or [Places🏖️](https://wallacezichen.github.io/zichen.io/assets/img/desert.jpg) during travel
 - 1.5 hour lego(most recent one is [Tales of the Space Age](https://www.lego.com/en-us/product/tales-of-the-space-age-21340))
